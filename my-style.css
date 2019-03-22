@@ -30,9 +30,22 @@
     font-family: 'Georgia', Times, Times New Roman, serif;
 }
 
+.containerTop {
+    margin-top: 5%;
+}
+
 .centerText {
     text-align: center;
-    vertical-align: center;
+    /* vertical-align: middle; */
+}
+
+.navbarCenter {
+    padding-right: 5%;
+    padding-left: 5%;
+}
+
+ .navbarPadding {
+    padding: 5%; 
 }
 
 .namePadding {
